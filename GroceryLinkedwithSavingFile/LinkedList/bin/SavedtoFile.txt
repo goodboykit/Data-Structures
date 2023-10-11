@@ -1,0 +1,48 @@
+Item Name: hfrie
+Item Description: efhbfghkr
+It's Price: ₱ 200.0
+Purchase Description: Purchased Successfully
+---------------------------------------------------
+
+Item Name: wat
+Item Description: watwat
+It's Price: ₱ 123.0
+Purchase Description: Purchased Successfully
+---------------------------------------------------
+
+Item Name: wjdh
+Item Description: 23e
+It's Price: ₱ 345.0
+Purchase Description: Purchased Successfully
+---------------------------------------------------
+
+Item Name: hatdog 
+Item Description: watawat
+It's Price: ₱ 120.0
+Purchase Description: Not Purchased
+---------------------------------------------------
+
+Item Name: Apple
+Item Description: It is apple 
+It's Price: ₱ 200.0
+Purchase Description: Not Successfully
+---------------------------------------------------
+
+Item Name: nonew
+Item Description: watawat
+It's Price: ₱ 100.0
+Purchase Description: Not Successfully
+---------------------------------------------------
+
+Item Name: na
+Item Description: bangus tilapia
+It's Price: ₱ 200.0
+Purchase Description: Not Purchased
+---------------------------------------------------
+
+Item Name: hd
+Item Description: dbhjf
+It's Price: ₱ 400.0
+Purchase Description: Not Purchased
+---------------------------------------------------
+
