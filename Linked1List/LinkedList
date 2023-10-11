@@ -37,8 +37,8 @@ package LinkedList;
           current = current.next;
         }
         
-        current.next = ulo;
-      }
+         current.next =newList;      
+       }
     }
     
     
